@@ -1,3 +1,2 @@
-# idontknow
+# github is hard
 just getting started
-hhahhahahaha
