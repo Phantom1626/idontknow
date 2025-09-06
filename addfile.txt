@@ -1,1 +1,5 @@
 hi 
+git checkout -b main
+git add .
+git commit -m "Initial commit"
+git push --set-upstream origin main
